@@ -1,7 +1,7 @@
 """
 Имя проекта: practicum-1
 Номер версии: 1.0
-Имя файла: Задание 1.py
+Имя файла: Task 1.py
 Автор: 2020 © Ю.А. Мазкова, Челябинск
 Лицензия использования:  CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/deed.ru)
 Дата создания: 11/11/2020
@@ -14,4 +14,3 @@ T="2020.11.11"
 date=T.split (".")
 print (date)
 print (date[2] + "/" + date [1] + "/" + date[0])
-
